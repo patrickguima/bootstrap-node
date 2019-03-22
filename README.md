@@ -1,8 +1,10 @@
 # bootstrap-node
 single page aplication with bootstrap and node
 
-##how to##
-install nodejs
+###how to###
+
+you need to install nodejs
+
 inside the repository
 
     npm install express

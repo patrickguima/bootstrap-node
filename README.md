@@ -1,11 +1,11 @@
 # bootstrap-node
-A fake page aplication with bootstrap and node. Just to learn the basics and have fun!!!
+Uma pagina web fake utlizando bootstrap e node. Feito só pela diversão e aprender os basicos!!!
 
 ### HOW TO ###
 
-You need to install nodejs
+Instalar NODEJS
 
-Inside the repository
+Dentro do repositorio rodar esses comandos.
 
     npm install express
 
@@ -14,7 +14,7 @@ Inside the repository
 that's it!!!!
 
 
-If you wanna make changes and don't want to run "npm start" every time, you can use NODEMON (he looks for changes e reaload the page), just need to install and run "npm run watch ".
-The package.json already contains the script for nodemon.
+Se quiser fazer modificações e evitar rodar "npm start" a cada mudança, Pode o NODEMON (ele recarregada a pagina automaticamente a cada mudança), só precisa instalar e rodar "npm run watch ".
+O package.json already ja contem o script pro NODEMON.
 
 ![Screenshot](tela.png)

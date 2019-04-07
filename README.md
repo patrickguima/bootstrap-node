@@ -1,5 +1,5 @@
 # bootstrap-node
-Uma pagina web fake utlizando bootstrap e node. Feito só pela diversão e aprender os basicos!!!
+Uma pagina web fake utilizando bootstrap e node. Feito só pela diversão e aprender os basicos!!!
 
 ### HOW TO ###
 
